@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Mohammed Adnan
-- 👀 I’m interested in Web Development 
-- 🌱 I’m currently learning Full Stack Web Development & Data Structures and Algorithms.
+- 👀 I’m a UI Developer 
+- 🌱 My Expertise are JavaScript, ReactJs, NextJs, TypeScript Bootstrap, Tailwind, MUI, etc...
 - 📫 Reach me at mohammedadnan036@gmail.com
 
 <!---
